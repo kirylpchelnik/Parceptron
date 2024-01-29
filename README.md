@@ -1,7 +1,7 @@
 # University project "Parceptorn for the calculation of XOR data" 
 
 Requirements for the Matrix class:
-1) Creation of matrix operations: addition, addition, subtraction, multiplication.
+1) Creation of matrix operations: addition, subtraction, multiplication.
 2) Relize the activation function (sigmoid function).
 
       $sigm = 1 /(1 + exp^{-x})$
